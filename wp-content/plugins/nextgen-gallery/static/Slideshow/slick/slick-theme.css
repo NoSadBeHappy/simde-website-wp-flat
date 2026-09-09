@@ -2,7 +2,7 @@
 /* Slider */
 .slick-loading .slick-list
 {
-    background: #fff url('/simde-website-wp-flat=%2Fwp-content%2Fplugins%2Fnextgen-gallery%2Fstatic%2FSlideshow%2Fslick%2Fajax-loader.gif') center center no-repeat;
+    background: #fff url('/simde-website-wp-flat/wp-content/plugins/nextgen-gallery/static/Slideshow/slick/ajax-loader.gif') center center no-repeat;
 }
 
 /* Icons */
@@ -12,8 +12,8 @@
     font-weight: normal;
     font-style: normal;
 
-    src: url('/simde-website-wp-flat=%2Fwp-content%2Fplugins%2Fnextgen-gallery%2Fstatic%2FSlideshow%2Fslick%2Ffonts%2Fslick.eot');
-    src: url('/simde-website-wp-flat=%2Fwp-content%2Fplugins%2Fnextgen-gallery%2Fstatic%2FSlideshow%2Fslick%2Ffonts%2Fslick.eot#iefix') format('embedded-opentype'), url('/simde-website-wp-flat=%2Fwp-content%2Fplugins%2Fnextgen-gallery%2Fstatic%2FSlideshow%2Fslick%2Ffonts%2Fslick.woff') format('woff'), url('/simde-website-wp-flat=%2Fwp-content%2Fplugins%2Fnextgen-gallery%2Fstatic%2FSlideshow%2Fslick%2Ffonts%2Fslick.ttf') format('truetype'), url('/simde-website-wp-flat=%2Fwp-content%2Fplugins%2Fnextgen-gallery%2Fstatic%2FSlideshow%2Fslick%2Ffonts%2Fslick.svg#slick') format('svg');
+    src: url('/simde-website-wp-flat/wp-content/plugins/nextgen-gallery/static/Slideshow/slick/fonts/slick.eot');
+    src: url('/simde-website-wp-flat/wp-content/plugins/nextgen-gallery/static/Slideshow/slick/fonts/slick.eot#iefix') format('embedded-opentype'), url('/simde-website-wp-flat/wp-content/plugins/nextgen-gallery/static/Slideshow/slick/fonts/slick.woff') format('woff'), url('/simde-website-wp-flat/wp-content/plugins/nextgen-gallery/static/Slideshow/slick/fonts/slick.ttf') format('truetype'), url('/simde-website-wp-flat/wp-content/plugins/nextgen-gallery/static/Slideshow/slick/fonts/slick.svg#slick') format('svg');
 }
 /* Arrows */
 .slick-prev,

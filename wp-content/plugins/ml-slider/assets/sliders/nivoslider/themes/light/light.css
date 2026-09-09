@@ -14,7 +14,7 @@ Supports Thumbs: true
 }
 .theme-light .nivoSlider {
 	position:relative;
-	background:#fff url(/simde-website-wp-flat=%2Fwp-content%2Fplugins%2Fml-slider%2Fassets%2Fsliders%2Fnivoslider%2Fthemes%2Flight%2Floading.gif) no-repeat 50% 50%;
+	background:#fff url(/simde-website-wp-flat/wp-content/plugins/ml-slider/assets/sliders/nivoslider/themes/light/loading.gif) no-repeat 50% 50%;
     margin-bottom:10px;
     overflow: visible;
 }
@@ -39,7 +39,7 @@ Supports Thumbs: true
 	display:inline-block;
 	width:10px;
 	height:10px;
-	background:url(/simde-website-wp-flat=%2Fwp-content%2Fplugins%2Fml-slider%2Fassets%2Fsliders%2Fnivoslider%2Fthemes%2Flight%2Fbullets.png) no-repeat;
+	background:url(/simde-website-wp-flat/wp-content/plugins/ml-slider/assets/sliders/nivoslider/themes/light/bullets.png) no-repeat;
 	text-indent:-9999px;
 	border:0;
 	margin: 0 2px;
@@ -52,7 +52,7 @@ Supports Thumbs: true
 	display:block;
 	width:30px;
 	height:30px;
-	background: url(/simde-website-wp-flat=%2Fwp-content%2Fplugins%2Fml-slider%2Fassets%2Fsliders%2Fnivoslider%2Fthemes%2Flight%2Farrows.png) no-repeat;
+	background: url(/simde-website-wp-flat/wp-content/plugins/ml-slider/assets/sliders/nivoslider/themes/light/arrows.png) no-repeat;
 	text-indent:-9999px;
 	border:0;
 	top: auto;

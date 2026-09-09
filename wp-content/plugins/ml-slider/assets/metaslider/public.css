@@ -133,11 +133,11 @@ body .metaslider .flexslider .flex-direction-nav li {
 }
 
 .metaslider-flex.ms-theme-default .flex-next:focus {
-    background: url('/simde-website-wp-flat=%2Fwp-content%2Fplugins%2Fml-slider%2Fassets%2Fmetaslider%2Fbg_direction_nav.png') scroll right 0 transparent!important;
+    background: url('/simde-website-wp-flat/wp-content/plugins/ml-slider/assets/metaslider/bg_direction_nav.png') scroll right 0 transparent!important;
     height: 27px!important;
 }
 .metaslider-flex.ms-theme-default .flex-prev:focus {
-    background: url('/simde-website-wp-flat=%2Fwp-content%2Fplugins%2Fml-slider%2Fassets%2Fmetaslider%2Fbg_direction_nav.png') scroll left 0 transparent!important;
+    background: url('/simde-website-wp-flat/wp-content/plugins/ml-slider/assets/metaslider/bg_direction_nav.png') scroll left 0 transparent!important;
     height: 27px!important;
 }
 
@@ -225,7 +225,7 @@ body .metaslider .flexslider .flex-direction-nav li {
     box-shadow: none!important;
     display: block;
     background-color: transparent;
-    background-image: url('/simde-website-wp-flat=%2Fwp-content%2Fplugins%2Fml-slider%2Fassets%2Fmetaslider%2Fbg_direction_nav.png');
+    background-image: url('/simde-website-wp-flat/wp-content/plugins/ml-slider/assets/metaslider/bg_direction_nav.png');
     background-repeat:  no-repeat;
     position: absolute;
     right: 10px;
@@ -340,7 +340,7 @@ body .metaslider .flexslider .flex-direction-nav li {
 	box-shadow: none !important;
 	display: block;
 	background-color: transparent;
-	background-image: url('/simde-website-wp-flat=%2Fwp-content%2Fplugins%2Fml-slider%2Fassets%2Fmetaslider%2Fbg_direction_nav.png');
+	background-image: url('/simde-website-wp-flat/wp-content/plugins/ml-slider/assets/metaslider/bg_direction_nav.png');
 	background-repeat: no-repeat;
 	position: absolute;
 	top: 50%;
