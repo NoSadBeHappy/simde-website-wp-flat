@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Lato';
-    src: url('/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/static/Lato-Regular.ttf') format('truetype')
+    src: url('/simde-website-wp-flat=%2Fwp-content%2Fplugins%2Fnextgen-gallery%2Fproducts%2Fphotocrati_nextgen%2Fmodules%2Fnextgen_admin%2Fstatic%2FLato-Regular.ttf') format('truetype')
 }
 
 /* Thickbox-based IGW Rules */
@@ -128,7 +128,7 @@
 }
 
 .ngg_attach_to_post_window .mceClose {
-	background: url('/wp-content/plugins/nextgen-gallery/static/AttachToPost/uploader-icons.png') !important;
+	background: url('/simde-website-wp-flat=%2Fwp-content%2Fplugins%2Fnextgen-gallery%2Fstatic%2FAttachToPost%2Fuploader-icons.png') !important;
 	display: block !important;
 	margin: 0 !important;
 	padding: 0 !important;

@@ -18,24 +18,24 @@
 	font-style: normal;
 	font-weight: 900;
 	font-display: block;
-	src: url(/wp-content/plugins/nextgen-gallery/static/FontAwesome/webfonts/fa-solid-900.woff2) format("woff2"),
-		url(/wp-content/plugins/nextgen-gallery/static/FontAwesome/webfonts/fa-solid-900.ttf) format("truetype");
+	src: url(/simde-website-wp-flat=%2Fwp-content%2Fplugins%2Fnextgen-gallery%2Fstatic%2FFontAwesome%2Fwebfonts%2Ffa-solid-900.woff2) format("woff2"),
+		url(/simde-website-wp-flat=%2Fwp-content%2Fplugins%2Fnextgen-gallery%2Fstatic%2FFontAwesome%2Fwebfonts%2Ffa-solid-900.ttf) format("truetype");
 }
 @font-face {
 	font-family: "NGG Icons";
 	font-style: normal;
 	font-weight: 400;
 	font-display: block;
-	src: url(/wp-content/plugins/nextgen-gallery/static/FontAwesome/webfonts/fa-regular-400.woff2) format("woff2"),
-		url(/wp-content/plugins/nextgen-gallery/static/FontAwesome/webfonts/fa-regular-400.ttf) format("truetype");
+	src: url(/simde-website-wp-flat=%2Fwp-content%2Fplugins%2Fnextgen-gallery%2Fstatic%2FFontAwesome%2Fwebfonts%2Ffa-regular-400.woff2) format("woff2"),
+		url(/simde-website-wp-flat=%2Fwp-content%2Fplugins%2Fnextgen-gallery%2Fstatic%2FFontAwesome%2Fwebfonts%2Ffa-regular-400.ttf) format("truetype");
 }
 @font-face {
 	font-family: "NGG Icons Brands";
 	font-style: normal;
 	font-weight: 400;
 	font-display: block;
-	src: url(/wp-content/plugins/nextgen-gallery/static/FontAwesome/webfonts/fa-brands-400.woff2) format("woff2"),
-		url(/wp-content/plugins/nextgen-gallery/static/FontAwesome/webfonts/fa-brands-400.ttf) format("truetype");
+	src: url(/simde-website-wp-flat=%2Fwp-content%2Fplugins%2Fnextgen-gallery%2Fstatic%2FFontAwesome%2Fwebfonts%2Ffa-brands-400.woff2) format("woff2"),
+		url(/simde-website-wp-flat=%2Fwp-content%2Fplugins%2Fnextgen-gallery%2Fstatic%2FFontAwesome%2Fwebfonts%2Ffa-brands-400.ttf) format("truetype");
 }
 #npl_wrapper .fa,
 #npl_wrapper .fas,
